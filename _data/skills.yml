@@ -1,0 +1,19 @@
+# Skills
+- skill: Cloud Computing
+  description: Familar with usage of several services in Amazon Web Service (AWS), Google Cloud Platform (GCP), and Heroku.
+
+- skill: Machine Learning
+  description: NLP (Text Summarization, Topic Modeling)
+
+- skill: Mobile App Development
+  description: Native (Android SDK) and Hybrid (Xamarin Forms for Android & iOS)
+
+- skill: Web Application development
+  description: >
+    Front-End (HTML, CSS, Javascript, Bootstrap, AngularJS) and Back-End (.NET C#)
+
+- skill: Multiplayer Game development
+  description: Using Scala as language with Scage and Akka as frameworks
+
+- skill: Desktop application
+  description: Using Java & Scala as language and any Java-based frameworks

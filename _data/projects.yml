@@ -1,0 +1,30 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: AutoTextSum
+  role: Developer
+  duration: 2016 &mdash; 2017
+  url: https://github.com/MrRexZ/FYP-AutoTextSum
+  description: >
+    The project consist of extractive-based text summarization algorithm, coded from ground up by myself, and abstractive-based text summarization algorithm that is taken from TensorFlow sample textsum. The app was published to the Google Cloud Platform as a flexible app engine instance, and accessed through REST API.
+
+- project: Concurrent Topic Modeling Algorithm
+  role: Developer
+  duration: May 2017 &mdash; June 2017
+  url: https://github.com/MrRexZ/CSC2044-Topic-Modeling
+  description: >
+    The project focuses on developing a topic modelling algorithm to determine the similarity of Google Patents descriptions. It is composed of of several modules such as web crawling, filtering stop words, tokenization,stemming,concurrency,normalizing, building 3 similarity metrics matrices (Euclidian, Cosine, and Manhattan similarity), and spectral clustering.
+
+- project: Multiplayer Race Shooter Game
+  role: Developer
+  duration: Nov 2016 &mdash; Dec 2016
+  url: https://github.com/MrRexZ/Multiplayer-Race-Shooter-Game
+  description: >
+    An online game that utilizes Akka framework for server-client communication using the language of Scala. In addition to two of those frameworks, the core main game engine used is Scage. Inspired by Temple Run, this multiplayer game features procedural generation of levels based on islands where each player are pitted against each other in the same map to reach the objective, located on the top right hand corner of the island. The first player to reach the top right corner is the winner. Players are also capable of shooting bullet/rocket at each other using left mouse button, to which will cause the player to be pushed in the same direction as the bullet/rocket.
+
+- project: AI-based Encryption & Decryption Standards
+  role: Developer
+  duration: Oct 2016 &mdash; Oct 2016
+  url: https://github.com/MrRexZ/Computational-Intelligence-Assignment-1
+  description: >
+    A one week project using Java consisting of 3 team members, with me involved in architectural design & implementation stage by devising algorithm for texts encryption using Genetic Algorithm and decryption using supervised Backpropagation Multilayer Perceptron Neural Network.

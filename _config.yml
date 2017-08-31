@@ -1,0 +1,41 @@
+# Site settings
+title: "Anthony Tjuatja's Resume"
+description: "Online resume for Anthony Tjuatja"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Anthony Tjuatja"
+resume_title:                   "Computer Scientist"
+resume_contact_email:           "anthonytjuatja@gmail.com"
+resume_contact_telephone:       "+62895347614631"
+resume_contact_address:         "North Sumatera, Medan"
+resume_header_contact_info: "North Sumatera, Medan | +62895347614631 | anthonytjuatja@gmail.com"
+resume_header_intro: "<p>A fresh graduate from Sunway University Malaysia, and currently looking for opportunity in the field of data science and software development.</p>"
+
+
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_links:           false
+resume_section_interests:       true
+
+# Resume social links
+resume_social_links:
+  resume_github_url:            "https://github.com/MrRexZ"
+  # resume_twitter_url:           "http://twitter.com/Mr_RexZ"
+  resume_linkedin_url:          "https://www.linkedin.com/in/anthony-tjuatja-85659aaa/"
+  # resume_website_url:           "http://mrrexz.github.io"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
